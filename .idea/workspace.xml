@@ -92,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698424589464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ddf">
+      <created>1698424679239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698424679239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore 등록">
+      <created>1698424879579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698424879579</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" check" />
     <MESSAGE value="ddf" />
-    <option name="LAST_COMMIT_MESSAGE" value="ddf" />
+    <MESSAGE value="gitignore 등록" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore 등록" />
   </component>
 </project>
